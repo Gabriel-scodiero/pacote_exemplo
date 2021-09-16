@@ -1,0 +1,9 @@
+README.md
+setup.py
+dev_aberto/__init__.py
+dev_aberto/dev_aberto.py
+dev_aberto_gabrieluas.egg-info/PKG-INFO
+dev_aberto_gabrieluas.egg-info/SOURCES.txt
+dev_aberto_gabrieluas.egg-info/dependency_links.txt
+dev_aberto_gabrieluas.egg-info/requires.txt
+dev_aberto_gabrieluas.egg-info/top_level.txt
